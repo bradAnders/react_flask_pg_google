@@ -266,12 +266,6 @@ if __name__ == '__main__':
     WSGIServer(('0.0.0.0', 8000), app).serve_forever()
 ```
 
-- Create the file `requirements.txt`
-
-```
-
-```
-
 - Setup and activate python environment
 
 ```shell
